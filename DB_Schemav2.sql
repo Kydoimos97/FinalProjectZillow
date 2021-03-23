@@ -152,20 +152,3 @@ CONSTRAINT user_saved_listing_fk1 FOREIGN KEY (email_adress) REFERENCES user_tb 
 CONSTRAINT user_saved_listing_fk2 FOREIGN KEY (zillow_id) REFERENCES listing (zillow_id)
 );
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
